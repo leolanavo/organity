@@ -1,0 +1,15 @@
+/*style.css*/
+
+.title {
+    color: #E60000;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.body {
+    font-family: "Arial";
+    font-size: 18px;
+    color: #1A1A1A;
+}
+
