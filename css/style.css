@@ -1,0 +1,68 @@
+/*style.css*/
+
+.title {
+    color: #737373;
+    background: #f2f2f2;
+    text-align: center;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.subtitle {
+    color: #8c8c8c;
+    background: #f2f2f2;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    border-bottom: 5px solid #f2f2f2;
+    text-shadow: 1px -1px 6px #737373;
+}
+
+.menu {
+    background: #660000;
+}
+
+.menu .pages {
+    float: left;
+    padding: 5px;
+    margin: 5px 5px 0px 5px;
+    border-bottom: 4px solid #660000;
+    color: #cccccc;
+
+    font-weight: bold;
+}
+
+.menu .pages:hover {
+    font-weight: bold;
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.15);
+    border-bottom: 4px solid #FFFFFF;
+}
+
+.menu .login {
+    float: right;
+    padding: 5px;
+    margin: 5px 5px 0px 5px;
+    color: #cccccc;
+    border-bottom: 4px solid #660000;
+    font-weight: bold;
+}
+
+.menu .login:hover {
+    font-weight: bold;
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.15);
+    border-bottom: 4px solid #FFFFFF;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.description {
+    margin: 5px;
+    font-family: "Arial";
+    font-size: 18px;
+    color: #1A1A1A;
+}
+
